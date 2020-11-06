@@ -5,3 +5,6 @@
     padding-bottom: 20px;
 }
 
+.post__body > img {
+    border-radius: 20px;
+}
